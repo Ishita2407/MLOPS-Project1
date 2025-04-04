@@ -155,3 +155,11 @@ If you found this project helpful or have any questions, feel free to reach out!
 ---
 
 This README provides a structured walkthrough of the MLOps project, showcasing the end-to-end pipeline, cloud integration, CI/CD setup, and robust data handling capabilities.
+
+Project -
+![image](https://github.com/user-attachments/assets/7f6196de-90b8-46ae-ae77-fc53b1caf3c0)
+
+![image](https://github.com/user-attachments/assets/c79f6e09-714c-455a-a596-afe4e47f3aab)
+
+
+
